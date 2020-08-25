@@ -1,0 +1,7 @@
+SampleID	Group
+P4_case	case
+P4_control	control
+P7_case	case
+P7_control	control
+P10_case	case
+P10_control	control
